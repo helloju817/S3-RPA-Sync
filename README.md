@@ -26,8 +26,8 @@ AWS_SECRET_ACCESS_KEY=...
 AWS_DEFAULT_REGION=ap-northeast-2
 
 S3_BUCKET=S3-RPA-Sync
-RPA_INPUT_DIR=.../Input
-RPA_COMPLETED_DIR=.../Completed
+RPA_INPUT_DIR   Path to the directory monitored by the RPA process
+RPA_COMPLETED_DIR   Path to the directory where RPA outputs are generated
 ```
 
 ---
