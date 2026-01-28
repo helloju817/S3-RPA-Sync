@@ -25,7 +25,7 @@ AWS_ACCESS_KEY_ID=...
 AWS_SECRET_ACCESS_KEY=...
 AWS_DEFAULT_REGION=ap-northeast-2
 
-S3_BUCKET=ai-layout-data
+S3_BUCKET=data
 RPA_INPUT_DIR=.../Input
 RPA_COMPLETED_DIR=.../Completed
 ```
