@@ -50,6 +50,7 @@ al_layout/
 ├── README.md
 └── LICENSE
 ```
+---
 
 🔐 Security                      
 - AWS IAM 최소 권한 정책 사용 (list/get/put on specific prefix only)                
