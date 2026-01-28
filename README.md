@@ -9,7 +9,7 @@ AWS S3 버킷과 RPA 서버 간 자동 파일 동기화 스크립트
 ## 📦 설치
 
 ```bash
-git clone https://github.com/juyoung.yun/S3-RPA-Sync.git
+git clone https://github.com/helloju817/S3-RPA-Sync.git
 cd S3-RPA-Sync
 pip install -r requirements.txt
 ```
