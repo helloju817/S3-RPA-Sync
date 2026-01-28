@@ -51,5 +51,6 @@ al_layout/
 └── LICENSE
 ```
 
-🔐 Security - AWS IAM 최소 권한 정책 사용 (list/get/put on specific prefix only)                
+🔐 Security                      
+- AWS IAM 최소 권한 정책 사용 (list/get/put on specific prefix only)                
 - AWS credentials are provided via environment variables only
